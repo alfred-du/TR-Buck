@@ -1,4 +1,4 @@
-# TRbuck — Buck Converter PCB
+#  Standalone Buck Converter PCB
 
 ![3D render of assembled PCB](docs/render.png)
 
@@ -32,7 +32,7 @@ The AP63300WU-7 is a synchronous buck converter with integrated power MOSFETs, s
 ### Mounting
 
 - **Screw size:** M3
-- **Hole placement:** 5 mm from board edges, per Triton Robotics mechanical standards
+- **Hole placement:** 5 mm from board edges, per Triton Robotics mechanical standards (thanks Vela)
 
 ### Connectors
 
@@ -55,4 +55,4 @@ The AP63300WU-7 is a synchronous buck converter with integrated power MOSFETs, s
 
 ---
 
-*Triton Robotics — TRbuck buck converter PCB*
+*Triton Robotics — Standalone buck converter PCB*
