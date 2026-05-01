@@ -54,5 +54,3 @@ The AP63300WU-7 is a synchronous buck converter with integrated power MOSFETs, s
 - [AP63300WU-7](https://www.diodes.com/part/view/AP63300) — manufacturer datasheet and application notes for feedback resistor selection and layout guidelines.
 
 ---
-
-*Triton Robotics — Standalone buck converter PCB*
