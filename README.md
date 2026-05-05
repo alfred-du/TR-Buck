@@ -1,6 +1,6 @@
 #  Standalone Buck Converter PCB
 
-![3D render of assembled PCB](docs/render.png)
+![3D render of assembled PCB](/render.png)
 
 A step-down (buck) converter PCB for **Triton Robotics**, designed to convert 24 V input to a regulated 5 V output. The board is laid out in EasyEDA and uses the AP63300WU-7 synchronous buck converter IC.
 
