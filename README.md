@@ -11,7 +11,7 @@ A step-down (buck) converter PCB for **Triton Robotics**, designed to convert 24
 | [buck.json](buck.json) | EasyEDA project file (schematic and PCB) |
 | [Gerber_TR-AP63300-Standalone-Buck-Conv_PCB_TR-AP63300-Standalone-Buck.zip](Gerber_TR-AP63300-Standalone-Buck-Conv_PCB_TR-AP63300-Standalone-Buck.zip) | PCB Gerber files for fabrication |
 | [BOM.csv](BOM.csv) | Bill of materials |
-| [docs/render.png](docs/render.png) | 3D render of assembled board |
+| [/render.png](/render.png) | 3D render of assembled board |
 | [docs/C2158012.pdf](docs/C2158012.pdf) | AP63300WU-7 datasheet |
 
 ## Features
@@ -21,18 +21,17 @@ A step-down (buck) converter PCB for **Triton Robotics**, designed to convert 24
 - **Connectors:** XT30 for power input and output
 - **IC:** AP63300WU-7 synchronous buck converter
 - **Design tool:** EasyEDA
-- **Mounting:** Triton Robotics standard — M3 screw mounting holes, 5 mm from board edges
 
 ## Hardware Overview
 
 ### IC: AP63300WU-7
 
-The AP63300WU-7 is a synchronous buck converter with integrated power MOSFETs, suitable for point-of-load conversion from higher bus voltages (e.g. 24 V) down to 5 V. The feedback resistor divider on this board is chosen for **24 V → 5 V** operation.
+The AP63300WU-7 is a synchronous buck converter with integrated power MOSFETs, suitable for point-of-load conversion from higher bus voltages (e.g. 24 V) down to 5 V. The feedback resistor divider on this board is chosen for **24 V → 5 V** operation.  
 
 ### Mounting
 
-- **Screw size:** M3
-- **Hole placement:** 5 mm from board edges, per Triton Robotics mechanical standards (thanks Vela)
+- **Screw size:** M2
+- **Hole placement:** 5 mm from board edges
 
 ### Connectors
 
